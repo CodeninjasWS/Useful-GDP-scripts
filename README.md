@@ -19,4 +19,8 @@ AN ERROR OCCURRED WHILE PROCESSING YOUR REQUEST.
 The view 'CNIndex' or its master was not found or no view engine supports the searched locations. The following locations were searched: ~/Views/Home/CNIndex.aspx ~/Views/Home/CNIndex.ascx ~/Views/Shared/CNIndex.aspx ~/Views/Shared/CNIndex.ascx ~/Views/Home/CNIndex.cshtml ~/Views/Home/CNIndex.vbhtml ~/Views/Shared/CNIndex.cshtml ~/Views/Shared/CNIndex.vbhtml
 Current User: $username$
 ```
+If that error occurs please use the following site after logging in: https://gdp.code.ninja/Treks.
+```
+https://gdp.code.ninja/Treks
+```
 
