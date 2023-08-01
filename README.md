@@ -24,3 +24,9 @@ If that error occurs please use the following site after logging in: https://gdp
 https://gdp.code.ninja/Treks
 ```
 
+The current path site is: https://gdp.code.ninja/Treks/Details/q7aa1LkRLB
+```
+https://gdp.code.ninja/Treks/Details/q7aa1LkRLB
+```
+For other, student created paths and games please view the PATHS.md file.
+
